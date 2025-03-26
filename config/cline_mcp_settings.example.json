@@ -1,0 +1,15 @@
+{
+    "obsidian": {
+        "vault_path": "/path/to/your/obsidian/vault",
+        "api_port": 27124
+    },
+    "cursor": {
+        "api_port": 27125,
+        "host": "localhost"
+    },
+    "server": {
+        "host": "0.0.0.0",
+        "port": 27126,
+        "debug": false
+    }
+} 
