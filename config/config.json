@@ -1,0 +1,6 @@
+{
+  "client": "cursor",
+  "verbose": true,
+  "timeout": 60000,
+  "connectionType": "ws"
+}

@@ -1,0 +1,1 @@
+{"name":"obsidian-mcp-cursor","version":"1.0.0","description":"Obsidian MCP integration for Cursor IDE","main":"src/server/obsidian_mcp.js","scripts":{"start":"node src/server/obsidian_mcp.js","install":"node scripts/install.js"},"keywords":["obsidian","cursor-ide","mcp"],"author":"","license":"MIT","dependencies":{"obsidian-mcp":"latest","@modelcontextprotocol/sdk":"^0.7.0"}}

@@ -1,0 +1,15 @@
+{
+  "name": "obsidian-mcp-service",
+  "version": "1.0.0",
+  "description": "Obsidian MCP 服务",
+  "main": "obsidian_mcp.js",
+  "scripts": {
+    "start": "node obsidian_mcp.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "obsidian-mcp": "latest"
+  }
+}
